@@ -2,8 +2,8 @@
 #include "AsyncUDP.h"
 // AsyncUDP udp;
 
-const char * ssid = "elecom-68d043";
-const char * password = "33dcu4jvm9d9";
+const char * ssi ;
+const char * password;
 const int port = 1234; 
 int sum = 0;
 
