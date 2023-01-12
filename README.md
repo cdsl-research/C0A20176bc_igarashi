@@ -23,7 +23,7 @@
 
 ・SourceCode/　　　　# ソースコード  
 　- server/  
-　　- mUdp_send.p　　# 本提案のサーバ側ソースコード  
+　　- mUdp_send.py　　# 本提案のサーバ側ソースコード  
 　　- tcp.py　　　　　# 実験比較用のTCP送信プログラム  
 　- client/  
 　　- mUdp_recv.c　　# 本提案のクライアント側ソースコード  
