@@ -2,7 +2,7 @@
 #include "AsyncUDP.h"
 // AsyncUDP udp;
 
-const char * ssi ;
+const char * ssid ;
 const char * password;
 const int port = 1234; 
 int sum = 0;
