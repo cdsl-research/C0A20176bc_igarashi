@@ -6,10 +6,8 @@
 #include "AsyncUDP.h"
 
 
-// const char * ssid = "elecom-68d043";
-const char * ssid = "CDSL-A910-11n";
-// const char * password = "33dcu4jvm9d9";
-const char * password = "11n-ky56$HDxgp";
+const char * ssid;
+const char * password;
 const int port = 1234;
 
 IPAddress src_ip;
